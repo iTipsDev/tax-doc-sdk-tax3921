@@ -1,0 +1,60 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "83-748-4366",
+  "taxFormId" : "1214217",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0545758",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Von, Zieme and Marvin"
+    },
+    "address" : {
+      "line1" : "13691 Koss Turnpike",
+      "city" : "Alleentown",
+      "region" : "MI",
+      "postalCode" : "25969"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "bella.koepp@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-75-3380",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Salvatore",
+      "last" : "Cruickshank"
+    },
+    "address" : {
+      "line1" : "46438 Oberbrunner Isle",
+      "city" : "East Sam",
+      "region" : "HI",
+      "postalCode" : "73064"
+    },
+    "email" : "marshall.runte@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "991-65074-6",
+  "optionGrantDate" : "2025-09-27",
+  "optionExerciseDate" : "2025-03-06",
+  "exercisePrice" : 200,
+  "exerciseMarketValue" : 300,
+  "numberOfShares" : 400,
+  "corporation" : {
+    "tin" : "00-0706154",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Langworth, Jakubowski and Wolff"
+    },
+    "address" : {
+      "line1" : "31379 Witting Overpass",
+      "city" : "North Faustino",
+      "region" : "WY",
+      "postalCode" : "76591"
+    },
+    "email" : "beaulah.green@hotmail.com"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "52-412-9433",
+  "taxFormId" : "3232460",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0545758",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Von, Zieme and Marvin"
+    },
+    "address" : {
+      "line1" : "13691 Koss Turnpike",
+      "city" : "Alleentown",
+      "region" : "MI",
+      "postalCode" : "25969"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "bella.koepp@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-55-9710",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Caleb",
+      "last" : "Hoppe"
+    },
+    "address" : {
+      "line1" : "64513 Collin Bridge",
+      "city" : "Santoston",
+      "region" : "NM",
+      "postalCode" : "07490"
+    },
+    "email" : "lucrecia.bosco@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "276-41665-5",
+  "optionGrantDate" : "2025-08-15",
+  "optionExerciseDate" : "2025-12-09",
+  "exercisePrice" : 200,
+  "exerciseMarketValue" : 300,
+  "numberOfShares" : 400,
+  "corporation" : {
+    "tin" : "00-0146084",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Cronin, Rodriguez and O'Hara"
+    },
+    "address" : {
+      "line1" : "5939 Bradtke Terrace",
+      "city" : "West Benedictmouth",
+      "region" : "NM",
+      "postalCode" : "25979"
+    },
+    "email" : "youlanda.kihn@hotmail.com"
+  }
+}
