@@ -1,0 +1,70 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "45-648-3712",
+  "taxFormId" : "7835308",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0689775",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hermann, Lubowitz and Koch"
+    },
+    "address" : {
+      "line1" : "06549 Xochitl Lock",
+      "city" : "Lake Marchellemouth",
+      "region" : "MT",
+      "postalCode" : "49239",
+      "unitType" : "Apt",
+      "unitNumber" : "439"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "gaston.osinski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-39-0709",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Carl",
+      "middle" : "Adan",
+      "last" : "Senger"
+    },
+    "businessName" : {
+      "name1" : "McGlynn, Deckow and Hermann"
+    },
+    "address" : {
+      "line1" : "5685 Kunze Squares",
+      "city" : "Port Tobias",
+      "region" : "IA",
+      "postalCode" : "87469",
+      "unitType" : "Apt",
+      "unitNumber" : "682"
+    },
+    "email" : "gail.cole@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "138-66115-5",
+  "optionGrantDate" : "2026-11-07",
+  "optionExerciseDate" : "2026-03-23",
+  "exercisePrice" : 200,
+  "exerciseMarketValue" : 300,
+  "numberOfShares" : 400,
+  "corporation" : {
+    "tin" : "00-0543330",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Schoen-Nader"
+    },
+    "address" : {
+      "line1" : "181 Feeney Freeway",
+      "city" : "New Jung",
+      "region" : "MN",
+      "postalCode" : "39170",
+      "unitType" : "Apt",
+      "unitNumber" : "623"
+    },
+    "email" : "sana.lueilwitz@yahoo.com"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "59-807-8855",
+  "taxFormId" : "6360719",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0689775",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hermann, Lubowitz and Koch"
+    },
+    "address" : {
+      "line1" : "06549 Xochitl Lock",
+      "city" : "Lake Marchellemouth",
+      "region" : "MT",
+      "postalCode" : "49239",
+      "unitType" : "Apt",
+      "unitNumber" : "439"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "gaston.osinski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-27-7864",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Risa",
+      "middle" : "Garret",
+      "last" : "Ferry"
+    },
+    "businessName" : {
+      "name1" : "Gerhold and Sons"
+    },
+    "address" : {
+      "line1" : "716 Wilmer Branch",
+      "city" : "Fernandeville",
+      "region" : "MO",
+      "postalCode" : "80345",
+      "unitType" : "Apt",
+      "unitNumber" : "585"
+    },
+    "email" : "damien.goldner@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "887-65039-0",
+  "optionGrantDate" : "2026-07-13",
+  "optionExerciseDate" : "2026-12-25",
+  "exercisePrice" : 200,
+  "exerciseMarketValue" : 300,
+  "numberOfShares" : 400,
+  "corporation" : {
+    "tin" : "00-0226797",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hermann and Sons"
+    },
+    "address" : {
+      "line1" : "787 Heaney Unions",
+      "city" : "Lake Colton",
+      "region" : "WA",
+      "postalCode" : "97030",
+      "unitType" : "Apt",
+      "unitNumber" : "489"
+    },
+    "email" : "adina.abbott@gmail.com"
+  }
+}

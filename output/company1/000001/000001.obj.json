@@ -1,0 +1,70 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "56-651-1896",
+  "taxFormId" : "7932288",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0689775",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hermann, Lubowitz and Koch"
+    },
+    "address" : {
+      "line1" : "06549 Xochitl Lock",
+      "city" : "Lake Marchellemouth",
+      "region" : "MT",
+      "postalCode" : "49239",
+      "unitType" : "Apt",
+      "unitNumber" : "439"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "gaston.osinski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-59-5441",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Sarina",
+      "middle" : "Lorita",
+      "last" : "Runolfsdottir"
+    },
+    "businessName" : {
+      "name1" : "Lind, Lubowitz and Cummerata"
+    },
+    "address" : {
+      "line1" : "9786 Yuk Street",
+      "city" : "Rempelberg",
+      "region" : "MA",
+      "postalCode" : "95051",
+      "unitType" : "Apt",
+      "unitNumber" : "107"
+    },
+    "email" : "earleen.wuckert@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "026-12799-9",
+  "optionGrantDate" : "2026-01-15",
+  "optionExerciseDate" : "2026-07-12",
+  "exercisePrice" : 200,
+  "exerciseMarketValue" : 300,
+  "numberOfShares" : 400,
+  "corporation" : {
+    "tin" : "00-0245458",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Miller-Gulgowski"
+    },
+    "address" : {
+      "line1" : "22265 Skiles Ways",
+      "city" : "South Brittni",
+      "region" : "MS",
+      "postalCode" : "87652",
+      "unitType" : "Apt",
+      "unitNumber" : "915"
+    },
+    "email" : "peter.nikolaus@gmail.com"
+  }
+}
